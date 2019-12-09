@@ -1,0 +1,19 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "\"Createa battleship(game)\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiza-coder/battleship.git"
+  },
+  "author": "Kiza-coder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiza-coder/battleship/issues"
+  },
+  "homepage": "https://github.com/Kiza-coder/battleship#readme"
+}
